@@ -1,4 +1,4 @@
-# ChineseRedList
+# Chinese Red List
 中国生物多样性红色名录
 # 来源
 中华人民共和国生态环境部网站
